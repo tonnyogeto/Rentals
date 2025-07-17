@@ -1,0 +1,240 @@
+2025-07-17 09:44:19,212 Worker rq:worker:35ad2e65619742739952b4e554c41350 started with PID 14789, version 1.15.1
+2025-07-17 09:44:19,212 Subscribing to channel rq:pubsub:35ad2e65619742739952b4e554c41350
+2025-07-17 09:44:19,213 *** Listening on home-erpnext-benches-ifran_cabs:short, home-erpnext-benches-ifran_cabs:default, home-erpnext-benches-ifran_cabs:long...
+2025-07-17 09:44:19,214 Cleaning registries for queue: home-erpnext-benches-ifran_cabs:short
+2025-07-17 09:44:19,216 Cleaning registries for queue: home-erpnext-benches-ifran_cabs:default
+2025-07-17 09:44:19,217 Cleaning registries for queue: home-erpnext-benches-ifran_cabs:long
+2025-07-17 10:00:20,056 Worker rq:worker:74d6b73ceecc449f92deb7e87ec3844a started with PID 16175, version 1.15.1
+2025-07-17 10:00:20,057 Subscribing to channel rq:pubsub:74d6b73ceecc449f92deb7e87ec3844a
+2025-07-17 10:00:20,063 *** Listening on home-erpnext-benches-ifran_cabs:short, home-erpnext-benches-ifran_cabs:default, home-erpnext-benches-ifran_cabs:long...
+2025-07-17 10:00:20,064 Cleaning registries for queue: home-erpnext-benches-ifran_cabs:short
+2025-07-17 10:00:20,066 Cleaning registries for queue: home-erpnext-benches-ifran_cabs:default
+2025-07-17 10:00:20,068 Cleaning registries for queue: home-erpnext-benches-ifran_cabs:long
+2025-07-17 10:00:20,693 Worker 74d6b73ceecc449f92deb7e87ec3844a [PID 16175]: warm shut down requested
+2025-07-17 10:00:20,694 Unsubscribing from channel rq:pubsub:74d6b73ceecc449f92deb7e87ec3844a
+2025-07-17 10:02:28,703 Worker rq:worker:6a160be888144d8ba1dd87ec276a601f started with PID 16358, version 1.15.1
+2025-07-17 10:02:28,704 Subscribing to channel rq:pubsub:6a160be888144d8ba1dd87ec276a601f
+2025-07-17 10:02:28,706 *** Listening on home-erpnext-benches-ifran_cabs:short, home-erpnext-benches-ifran_cabs:default, home-erpnext-benches-ifran_cabs:long...
+2025-07-17 10:02:29,130 Worker 6a160be888144d8ba1dd87ec276a601f [PID 16358]: warm shut down requested
+2025-07-17 10:02:29,132 Unsubscribing from channel rq:pubsub:6a160be888144d8ba1dd87ec276a601f
+2025-07-17 10:04:13,457 Worker rq:worker:7cd3377a282c47828847ab573aef52c1 started with PID 16494, version 1.15.1
+2025-07-17 10:04:13,457 Subscribing to channel rq:pubsub:7cd3377a282c47828847ab573aef52c1
+2025-07-17 10:04:13,459 *** Listening on home-erpnext-benches-ifran_cabs:short, home-erpnext-benches-ifran_cabs:default, home-erpnext-benches-ifran_cabs:long...
+2025-07-17 10:04:14,002 Worker 7cd3377a282c47828847ab573aef52c1 [PID 16494]: warm shut down requested
+2025-07-17 10:04:14,005 Unsubscribing from channel rq:pubsub:7cd3377a282c47828847ab573aef52c1
+2025-07-17 10:07:03,259 Worker rq:worker:2b635dba387a4cbb98c113662a5eb11f started with PID 16959, version 1.15.1
+2025-07-17 10:07:03,259 Subscribing to channel rq:pubsub:2b635dba387a4cbb98c113662a5eb11f
+2025-07-17 10:07:03,260 *** Listening on home-erpnext-benches-ifran_cabs:short, home-erpnext-benches-ifran_cabs:default, home-erpnext-benches-ifran_cabs:long...
+2025-07-17 10:07:03,820 Worker 2b635dba387a4cbb98c113662a5eb11f [PID 16959]: warm shut down requested
+2025-07-17 10:07:03,821 Unsubscribing from channel rq:pubsub:2b635dba387a4cbb98c113662a5eb11f
+2025-07-17 10:10:11,654 Worker rq:worker:dc66f80cb1464241b43aa275ce0ca842 started with PID 17392, version 1.15.1
+2025-07-17 10:10:11,655 Subscribing to channel rq:pubsub:dc66f80cb1464241b43aa275ce0ca842
+2025-07-17 10:10:11,657 *** Listening on home-erpnext-benches-ifran_cabs:short, home-erpnext-benches-ifran_cabs:default, home-erpnext-benches-ifran_cabs:long...
+2025-07-17 10:10:11,960 Worker dc66f80cb1464241b43aa275ce0ca842 [PID 17392]: warm shut down requested
+2025-07-17 10:10:11,961 Unsubscribing from channel rq:pubsub:dc66f80cb1464241b43aa275ce0ca842
+2025-07-17 10:11:53,613 Worker rq:worker:943a2a10e07a4ef4afd66576ed0bf071 started with PID 17583, version 1.15.1
+2025-07-17 10:11:53,613 Subscribing to channel rq:pubsub:943a2a10e07a4ef4afd66576ed0bf071
+2025-07-17 10:11:53,614 *** Listening on home-erpnext-benches-ifran_cabs:short, home-erpnext-benches-ifran_cabs:default, home-erpnext-benches-ifran_cabs:long...
+2025-07-17 10:13:29,665 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.create_contact', kwargs={'user': <User: tonnymaishaogeto@gmail.com>, 'ignore_mandatory': True}, method='frappe.core.doctype.user.user.create_contact', site='ifran.cabs', user='Administrator') (ifran.cabs::cec36202-570a-47aa-9511-e95846297f9f)
+2025-07-17 10:13:29,665 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.update_gravatar', kwargs={'name': 'tonnymaishaogeto@gmail.com'}, method='frappe.core.doctype.user.user.update_gravatar', site='ifran.cabs', user='Administrator') (ifran.cabs::faa4277e-4bd3-4791-a4cf-d6e4a4f6df7f)
+2025-07-17 10:13:30,990 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::cec36202-570a-47aa-9511-e95846297f9f)
+2025-07-17 10:13:30,990 Result is kept for 600 seconds
+2025-07-17 10:20:05,423 Worker 943a2a10e07a4ef4afd66576ed0bf071 [PID 17583]: warm shut down requested
+2025-07-17 10:20:17,224 Worker rq:worker:70c9505109804953b9acad63e67a97a5 started with PID 20938, version 1.15.1
+2025-07-17 10:20:17,224 Subscribing to channel rq:pubsub:70c9505109804953b9acad63e67a97a5
+2025-07-17 10:20:17,227 *** Listening on home-erpnext-benches-ifran_cabs:short, home-erpnext-benches-ifran_cabs:default, home-erpnext-benches-ifran_cabs:long...
+2025-07-17 10:20:17,229 Cleaning registries for queue: home-erpnext-benches-ifran_cabs:short
+2025-07-17 10:20:17,231 Cleaning registries for queue: home-erpnext-benches-ifran_cabs:default
+2025-07-17 10:20:17,232 Cleaning registries for queue: home-erpnext-benches-ifran_cabs:long
+2025-07-17 10:25:10,021 Worker 70c9505109804953b9acad63e67a97a5 [PID 20938]: warm shut down requested
+2025-07-17 10:25:10,024 Unsubscribing from channel rq:pubsub:70c9505109804953b9acad63e67a97a5
+2025-07-17 10:26:13,958 Worker rq:worker:4669b31ef05a43be91e4d412356fdf1d started with PID 21542, version 1.15.1
+2025-07-17 10:26:13,959 Subscribing to channel rq:pubsub:4669b31ef05a43be91e4d412356fdf1d
+2025-07-17 10:26:13,962 *** Listening on home-erpnext-benches-ifran_cabs:short, home-erpnext-benches-ifran_cabs:default, home-erpnext-benches-ifran_cabs:long...
+2025-07-17 10:39:44,037 Cleaning registries for queue: home-erpnext-benches-ifran_cabs:short
+2025-07-17 10:39:44,041 Cleaning registries for queue: home-erpnext-benches-ifran_cabs:default
+2025-07-17 10:39:44,043 Cleaning registries for queue: home-erpnext-benches-ifran_cabs:long
+2025-07-17 10:44:53,601 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.search.website_search.update_index_for_path', kwargs={'path': 'about-ifran-cabs'}, method=<function update_index_for_path at 0x70096b178b80>, site='ifran.cabs', user='Administrator') (ifran.cabs::bd8cb7f3-b662-4499-9303-921f38c15ff7)
+2025-07-17 10:44:54,915 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::bd8cb7f3-b662-4499-9303-921f38c15ff7)
+2025-07-17 10:44:54,915 Result is kept for 600 seconds
+2025-07-17 10:48:37,167 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.search.website_search.update_index_for_path', kwargs={'path': 'about-ifran-cabs'}, method=<function update_index_for_path at 0x70096b178b80>, site='ifran.cabs', user='Administrator') (ifran.cabs::66bcd7f1-c7cc-477b-bfff-68632d12df16)
+2025-07-17 10:48:38,088 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::66bcd7f1-c7cc-477b-bfff-68632d12df16)
+2025-07-17 10:48:38,088 Result is kept for 600 seconds
+2025-07-17 10:49:27,435 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.search.website_search.update_index_for_path', kwargs={'path': 'about-ifran-cabs'}, method=<function update_index_for_path at 0x70096b178b80>, site='ifran.cabs', user='Administrator') (ifran.cabs::95835a63-e15a-45ab-beb7-3fcd220e3031)
+2025-07-17 10:49:29,190 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::95835a63-e15a-45ab-beb7-3fcd220e3031)
+2025-07-17 10:49:29,191 Result is kept for 600 seconds
+2025-07-17 10:54:00,813 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.search.website_search.update_index_for_path', kwargs={'path': 'terms-&-conditions'}, method=<function update_index_for_path at 0x70096b178b80>, site='ifran.cabs', user='Administrator') (ifran.cabs::a63c2a28-f6f1-425c-822c-c7eefe2f6b1d)
+2025-07-17 10:54:01,744 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::a63c2a28-f6f1-425c-822c-c7eefe2f6b1d)
+2025-07-17 10:54:01,744 Result is kept for 600 seconds
+2025-07-17 10:54:21,678 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.search.website_search.update_index_for_path', kwargs={'path': 'terms-&-conditions'}, method=<function update_index_for_path at 0x70096b178b80>, site='ifran.cabs', user='Administrator') (ifran.cabs::38bc2809-20e0-4dc5-a2ef-ae514a9b4b0a)
+2025-07-17 10:54:22,983 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::38bc2809-20e0-4dc5-a2ef-ae514a9b4b0a)
+2025-07-17 10:54:22,983 Result is kept for 600 seconds
+2025-07-17 11:01:08,049 Cleaning registries for queue: home-erpnext-benches-ifran_cabs:short
+2025-07-17 11:01:08,053 Cleaning registries for queue: home-erpnext-benches-ifran_cabs:default
+2025-07-17 11:01:08,056 Cleaning registries for queue: home-erpnext-benches-ifran_cabs:long
+2025-07-17 11:09:06,139 Worker 4669b31ef05a43be91e4d412356fdf1d [PID 21542]: warm shut down requested
+2025-07-17 11:09:06,141 Unsubscribing from channel rq:pubsub:4669b31ef05a43be91e4d412356fdf1d
+2025-07-17 11:09:18,606 Worker rq:worker:65d44574b89a47c19eb510e9f79fb526 started with PID 28272, version 1.15.1
+2025-07-17 11:09:18,606 Subscribing to channel rq:pubsub:65d44574b89a47c19eb510e9f79fb526
+2025-07-17 11:09:18,609 *** Listening on home-erpnext-benches-ifran_cabs:short, home-erpnext-benches-ifran_cabs:default, home-erpnext-benches-ifran_cabs:long...
+2025-07-17 11:22:48,690 Cleaning registries for queue: home-erpnext-benches-ifran_cabs:short
+2025-07-17 11:22:48,693 Cleaning registries for queue: home-erpnext-benches-ifran_cabs:default
+2025-07-17 11:22:48,695 Cleaning registries for queue: home-erpnext-benches-ifran_cabs:long
+2025-07-17 11:39:44,239 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Driver', 'name': '1qp8frfvs7'}, method='frappe.model.delete_doc.delete_dynamic_links', site='ifran.cabs', user='Administrator') (ifran.cabs::5aa2f228-bd69-4f3a-b3b9-98d17cf6c1b3)
+2025-07-17 11:39:44,356 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'File', 'name': 'cf7ba54508'}, method='frappe.model.delete_doc.delete_dynamic_links', site='ifran.cabs', user='Administrator') (ifran.cabs::228c9a58-6ff6-49cb-bbea-0c0bf50a35c2)
+2025-07-17 11:39:44,648 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::5aa2f228-bd69-4f3a-b3b9-98d17cf6c1b3)
+2025-07-17 11:39:44,648 Result is kept for 600 seconds
+2025-07-17 11:39:44,660 Cleaning registries for queue: home-erpnext-benches-ifran_cabs:short
+2025-07-17 11:39:44,662 Cleaning registries for queue: home-erpnext-benches-ifran_cabs:default
+2025-07-17 11:39:44,663 Cleaning registries for queue: home-erpnext-benches-ifran_cabs:long
+2025-07-17 11:39:44,683 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::228c9a58-6ff6-49cb-bbea-0c0bf50a35c2)
+2025-07-17 11:39:44,683 Result is kept for 600 seconds
+2025-07-17 11:42:00,269 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'File', 'name': 'f488005355'}, method='frappe.model.delete_doc.delete_dynamic_links', site='ifran.cabs', user='Administrator') (ifran.cabs::73b30d21-9daa-42df-a87e-5d75aeac6701)
+2025-07-17 11:42:00,272 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Driver', 'name': 'a4hgt5j1f2'}, method='frappe.model.delete_doc.delete_dynamic_links', site='ifran.cabs', user='Administrator') (ifran.cabs::858250d4-e5e6-4796-83fe-2cdb798d33d5)
+2025-07-17 11:42:00,538 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::858250d4-e5e6-4796-83fe-2cdb798d33d5)
+2025-07-17 11:42:00,540 Result is kept for 600 seconds
+2025-07-17 11:42:00,676 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::73b30d21-9daa-42df-a87e-5d75aeac6701)
+2025-07-17 11:42:00,677 Result is kept for 600 seconds
+2025-07-17 11:55:30,793 Cleaning registries for queue: home-erpnext-benches-ifran_cabs:short
+2025-07-17 11:55:30,794 Cleaning registries for queue: home-erpnext-benches-ifran_cabs:default
+2025-07-17 11:55:30,795 Cleaning registries for queue: home-erpnext-benches-ifran_cabs:long
+2025-07-17 11:57:20,190 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Comment', 'name': 'j37aqgrkhd'}, method='frappe.model.delete_doc.delete_dynamic_links', site='ifran.cabs', user='Administrator') (ifran.cabs::0e20014d-9424-43e7-b1de-1eae55b2f9f1)
+2025-07-17 11:57:20,271 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::0e20014d-9424-43e7-b1de-1eae55b2f9f1)
+2025-07-17 11:57:20,272 Result is kept for 600 seconds
+2025-07-17 12:17:35,487 Cleaning registries for queue: home-erpnext-benches-ifran_cabs:short
+2025-07-17 12:17:35,490 Cleaning registries for queue: home-erpnext-benches-ifran_cabs:default
+2025-07-17 12:17:35,492 Cleaning registries for queue: home-erpnext-benches-ifran_cabs:long
+2025-07-17 12:28:25,197 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.google_calendar.google_calendar.s..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='ifran.cabs', user='Administrator') (ifran.cabs::scheduled_job::frappe.integrations.doctype.google_calendar.google_calendar.sync)
+2025-07-17 12:28:25,201 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.monitor.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='ifran.cabs', user='Administrator') (ifran.cabs::scheduled_job::frappe.monitor.flush)
+2025-07-17 12:28:25,635 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::scheduled_job::frappe.monitor.flush)
+2025-07-17 12:28:25,635 Result is kept for 600 seconds
+2025-07-17 12:28:25,647 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='ifran.cabs', user='Administrator') (ifran.cabs::scheduled_job::frappe.email.queue.flush)
+2025-07-17 12:28:25,991 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::scheduled_job::frappe.email.queue.flush)
+2025-07-17 12:28:25,991 Result is kept for 600 seconds
+2025-07-17 12:28:26,004 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.retry_sending_emails'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='ifran.cabs', user='Administrator') (ifran.cabs::scheduled_job::frappe.email.queue.retry_sending_emails)
+2025-07-17 12:28:26,107 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::scheduled_job::frappe.integrations.doctype.google_calendar.google_calendar.sync)
+2025-07-17 12:28:26,108 Result is kept for 600 seconds
+2025-07-17 12:28:26,196 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::scheduled_job::frappe.email.queue.retry_sending_emails)
+2025-07-17 12:28:26,196 Result is kept for 600 seconds
+2025-07-17 12:30:25,381 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.deferred_insert.save_to_db'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='ifran.cabs', user='Administrator') (ifran.cabs::scheduled_job::frappe.deferred_insert.save_to_db)
+2025-07-17 12:30:25,395 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.pull'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='ifran.cabs', user='Administrator') (ifran.cabs::scheduled_job::frappe.email.doctype.email_account.email_account.pull)
+2025-07-17 12:30:25,714 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::scheduled_job::frappe.email.doctype.email_account.email_account.pull)
+2025-07-17 12:30:25,714 Result is kept for 600 seconds
+2025-07-17 12:30:25,723 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.automation.doctype.reminder.reminder.send_reminders'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='ifran.cabs', user='Administrator') (ifran.cabs::scheduled_job::frappe.automation.doctype.reminder.reminder.send_reminders)
+2025-07-17 12:30:25,900 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::scheduled_job::frappe.deferred_insert.save_to_db)
+2025-07-17 12:30:25,900 Result is kept for 600 seconds
+2025-07-17 12:30:25,911 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.notify_unrep..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='ifran.cabs', user='Administrator') (ifran.cabs::scheduled_job::frappe.email.doctype.email_account.email_account.notify_unreplied)
+2025-07-17 12:30:25,912 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::scheduled_job::frappe.automation.doctype.reminder.reminder.send_reminders)
+2025-07-17 12:30:25,912 Result is kept for 600 seconds
+2025-07-17 12:30:25,921 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.global_search.sync_global_search'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='ifran.cabs', user='Administrator') (ifran.cabs::scheduled_job::frappe.utils.global_search.sync_global_search)
+2025-07-17 12:30:26,094 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::scheduled_job::frappe.utils.global_search.sync_global_search)
+2025-07-17 12:30:26,095 Result is kept for 600 seconds
+2025-07-17 12:30:26,103 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.model.utils.link_count.update_link_count'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='ifran.cabs', user='Administrator') (ifran.cabs::scheduled_job::frappe.model.utils.link_count.update_link_count)
+2025-07-17 12:30:26,279 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::scheduled_job::frappe.model.utils.link_count.update_link_count)
+2025-07-17 12:30:26,280 Result is kept for 600 seconds
+2025-07-17 12:30:26,389 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::scheduled_job::frappe.email.doctype.email_account.email_account.notify_unreplied)
+2025-07-17 12:30:26,389 Result is kept for 600 seconds
+2025-07-17 12:32:25,547 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.monitor.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='ifran.cabs', user='Administrator') (ifran.cabs::scheduled_job::frappe.monitor.flush)
+2025-07-17 12:32:25,578 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.retry_sending_emails'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='ifran.cabs', user='Administrator') (ifran.cabs::scheduled_job::frappe.email.queue.retry_sending_emails)
+2025-07-17 12:32:25,716 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::scheduled_job::frappe.monitor.flush)
+2025-07-17 12:32:25,716 Result is kept for 600 seconds
+2025-07-17 12:32:25,727 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.google_calendar.google_calendar.s..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='ifran.cabs', user='Administrator') (ifran.cabs::scheduled_job::frappe.integrations.doctype.google_calendar.google_calendar.sync)
+2025-07-17 12:32:25,980 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::scheduled_job::frappe.integrations.doctype.google_calendar.google_calendar.sync)
+2025-07-17 12:32:25,980 Result is kept for 600 seconds
+2025-07-17 12:32:25,990 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='ifran.cabs', user='Administrator') (ifran.cabs::scheduled_job::frappe.email.queue.flush)
+2025-07-17 12:32:26,003 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::scheduled_job::frappe.email.queue.retry_sending_emails)
+2025-07-17 12:32:26,003 Result is kept for 600 seconds
+2025-07-17 12:32:26,195 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::scheduled_job::frappe.email.queue.flush)
+2025-07-17 12:32:26,195 Result is kept for 600 seconds
+2025-07-17 12:36:25,860 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.monitor.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='ifran.cabs', user='Administrator') (ifran.cabs::scheduled_job::frappe.monitor.flush)
+2025-07-17 12:36:25,879 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='ifran.cabs', user='Administrator') (ifran.cabs::scheduled_job::frappe.email.queue.flush)
+2025-07-17 12:36:26,145 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::scheduled_job::frappe.email.queue.flush)
+2025-07-17 12:36:26,145 Result is kept for 600 seconds
+2025-07-17 12:36:26,154 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.retry_sending_emails'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='ifran.cabs', user='Administrator') (ifran.cabs::scheduled_job::frappe.email.queue.retry_sending_emails)
+2025-07-17 12:36:26,307 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::scheduled_job::frappe.monitor.flush)
+2025-07-17 12:36:26,307 Result is kept for 600 seconds
+2025-07-17 12:36:26,308 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::scheduled_job::frappe.email.queue.retry_sending_emails)
+2025-07-17 12:36:26,309 Result is kept for 600 seconds
+2025-07-17 12:36:26,318 Cleaning registries for queue: home-erpnext-benches-ifran_cabs:short
+2025-07-17 12:36:26,319 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.google_calendar.google_calendar.s..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='ifran.cabs', user='Administrator') (ifran.cabs::scheduled_job::frappe.integrations.doctype.google_calendar.google_calendar.sync)
+2025-07-17 12:36:26,320 Cleaning registries for queue: home-erpnext-benches-ifran_cabs:default
+2025-07-17 12:36:26,321 Cleaning registries for queue: home-erpnext-benches-ifran_cabs:long
+2025-07-17 12:36:26,535 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::scheduled_job::frappe.integrations.doctype.google_calendar.google_calendar.sync)
+2025-07-17 12:36:26,535 Result is kept for 600 seconds
+2025-07-17 12:39:26,527 Worker 65d44574b89a47c19eb510e9f79fb526 [PID 28272]: warm shut down requested
+2025-07-17 12:39:26,529 Unsubscribing from channel rq:pubsub:65d44574b89a47c19eb510e9f79fb526
+2025-07-17 12:46:53,899 Worker rq:worker:ded58f5969724ea2916eaff253ce7759 started with PID 44980, version 1.15.1
+2025-07-17 12:46:53,899 Subscribing to channel rq:pubsub:ded58f5969724ea2916eaff253ce7759
+2025-07-17 12:46:53,900 *** Listening on home-erpnext-benches-ifran_cabs:short, home-erpnext-benches-ifran_cabs:default, home-erpnext-benches-ifran_cabs:long...
+2025-07-17 12:47:54,518 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.automation.doctype.reminder.reminder.send_reminders'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='ifran.cabs', user='Administrator') (ifran.cabs::scheduled_job::frappe.automation.doctype.reminder.reminder.send_reminders)
+2025-07-17 12:47:54,535 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.notify_unrep..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='ifran.cabs', user='Administrator') (ifran.cabs::scheduled_job::frappe.email.doctype.email_account.email_account.notify_unreplied)
+2025-07-17 12:47:54,854 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::scheduled_job::frappe.automation.doctype.reminder.reminder.send_reminders)
+2025-07-17 12:47:54,854 Result is kept for 600 seconds
+2025-07-17 12:47:54,864 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.pull'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='ifran.cabs', user='Administrator') (ifran.cabs::scheduled_job::frappe.email.doctype.email_account.email_account.pull)
+2025-07-17 12:47:55,061 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::scheduled_job::frappe.email.doctype.email_account.email_account.pull)
+2025-07-17 12:47:55,061 Result is kept for 600 seconds
+2025-07-17 12:47:55,069 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.retry_sending_emails'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='ifran.cabs', user='Administrator') (ifran.cabs::scheduled_job::frappe.email.queue.retry_sending_emails)
+2025-07-17 12:47:55,246 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::scheduled_job::frappe.email.queue.retry_sending_emails)
+2025-07-17 12:47:55,246 Result is kept for 600 seconds
+2025-07-17 12:47:55,255 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.google_calendar.google_calendar.s..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='ifran.cabs', user='Administrator') (ifran.cabs::scheduled_job::frappe.integrations.doctype.google_calendar.google_calendar.sync)
+2025-07-17 12:47:55,466 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::scheduled_job::frappe.email.doctype.email_account.email_account.notify_unreplied)
+2025-07-17 12:47:55,467 Result is kept for 600 seconds
+2025-07-17 12:47:55,482 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.model.utils.link_count.update_link_count'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='ifran.cabs', user='Administrator') (ifran.cabs::scheduled_job::frappe.model.utils.link_count.update_link_count)
+2025-07-17 12:47:55,560 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::scheduled_job::frappe.integrations.doctype.google_calendar.google_calendar.sync)
+2025-07-17 12:47:55,560 Result is kept for 600 seconds
+2025-07-17 12:47:55,570 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.deferred_insert.save_to_db'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='ifran.cabs', user='Administrator') (ifran.cabs::scheduled_job::frappe.deferred_insert.save_to_db)
+2025-07-17 12:47:55,781 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::scheduled_job::frappe.deferred_insert.save_to_db)
+2025-07-17 12:47:55,781 Result is kept for 600 seconds
+2025-07-17 12:47:55,790 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.global_search.sync_global_search'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='ifran.cabs', user='Administrator') (ifran.cabs::scheduled_job::frappe.utils.global_search.sync_global_search)
+2025-07-17 12:47:55,967 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::scheduled_job::frappe.model.utils.link_count.update_link_count)
+2025-07-17 12:47:55,967 Result is kept for 600 seconds
+2025-07-17 12:47:55,970 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::scheduled_job::frappe.utils.global_search.sync_global_search)
+2025-07-17 12:47:55,971 Result is kept for 600 seconds
+2025-07-17 12:47:55,977 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.monitor.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='ifran.cabs', user='Administrator') (ifran.cabs::scheduled_job::frappe.monitor.flush)
+2025-07-17 12:47:55,979 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='ifran.cabs', user='Administrator') (ifran.cabs::scheduled_job::frappe.email.queue.flush)
+2025-07-17 12:47:56,113 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::scheduled_job::frappe.monitor.flush)
+2025-07-17 12:47:56,113 Result is kept for 600 seconds
+2025-07-17 12:47:56,434 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::scheduled_job::frappe.email.queue.flush)
+2025-07-17 12:47:56,434 Result is kept for 600 seconds
+2025-07-17 12:48:54,613 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='ifran.cabs', user='Administrator') (ifran.cabs::scheduled_job::frappe.email.queue.flush)
+2025-07-17 12:48:54,622 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.retry_sending_emails'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='ifran.cabs', user='Administrator') (ifran.cabs::scheduled_job::frappe.email.queue.retry_sending_emails)
+2025-07-17 12:48:54,867 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::scheduled_job::frappe.email.queue.flush)
+2025-07-17 12:48:54,867 Result is kept for 600 seconds
+2025-07-17 12:48:54,880 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.google_calendar.google_calendar.s..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='ifran.cabs', user='Administrator') (ifran.cabs::scheduled_job::frappe.integrations.doctype.google_calendar.google_calendar.sync)
+2025-07-17 12:48:55,081 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::scheduled_job::frappe.email.queue.retry_sending_emails)
+2025-07-17 12:48:55,082 Result is kept for 600 seconds
+2025-07-17 12:48:55,091 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.monitor.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='ifran.cabs', user='Administrator') (ifran.cabs::scheduled_job::frappe.monitor.flush)
+2025-07-17 12:48:55,189 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::scheduled_job::frappe.integrations.doctype.google_calendar.google_calendar.sync)
+2025-07-17 12:48:55,190 Result is kept for 600 seconds
+2025-07-17 12:48:55,521 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::scheduled_job::frappe.monitor.flush)
+2025-07-17 12:48:55,521 Result is kept for 600 seconds
+2025-07-17 12:50:54,815 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.pull'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='ifran.cabs', user='Administrator') (ifran.cabs::scheduled_job::frappe.email.doctype.email_account.email_account.pull)
+2025-07-17 12:50:54,989 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::scheduled_job::frappe.email.doctype.email_account.email_account.pull)
+2025-07-17 12:50:54,989 Result is kept for 600 seconds
+2025-07-17 12:52:54,918 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.retry_sending_emails'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='ifran.cabs', user='Administrator') (ifran.cabs::scheduled_job::frappe.email.queue.retry_sending_emails)
+2025-07-17 12:52:54,947 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='ifran.cabs', user='Administrator') (ifran.cabs::scheduled_job::frappe.email.queue.flush)
+2025-07-17 12:52:55,171 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::scheduled_job::frappe.email.queue.flush)
+2025-07-17 12:52:55,171 Result is kept for 600 seconds
+2025-07-17 12:52:55,179 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.google_calendar.google_calendar.s..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='ifran.cabs', user='Administrator') (ifran.cabs::scheduled_job::frappe.integrations.doctype.google_calendar.google_calendar.sync)
+2025-07-17 12:52:55,329 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::scheduled_job::frappe.email.queue.retry_sending_emails)
+2025-07-17 12:52:55,329 Result is kept for 600 seconds
+2025-07-17 12:52:55,339 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.monitor.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='ifran.cabs', user='Administrator') (ifran.cabs::scheduled_job::frappe.monitor.flush)
+2025-07-17 12:52:55,406 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::scheduled_job::frappe.integrations.doctype.google_calendar.google_calendar.sync)
+2025-07-17 12:52:55,406 Result is kept for 600 seconds
+2025-07-17 12:52:55,688 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::scheduled_job::frappe.monitor.flush)
+2025-07-17 12:52:55,688 Result is kept for 600 seconds
+2025-07-17 12:56:55,230 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='ifran.cabs', user='Administrator') (ifran.cabs::scheduled_job::frappe.email.queue.flush)
+2025-07-17 12:56:55,240 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.monitor.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='ifran.cabs', user='Administrator') (ifran.cabs::scheduled_job::frappe.monitor.flush)
+2025-07-17 12:56:55,465 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::scheduled_job::frappe.email.queue.flush)
+2025-07-17 12:56:55,465 Result is kept for 600 seconds
+2025-07-17 12:56:55,474 Cleaning registries for queue: home-erpnext-benches-ifran_cabs:short
+2025-07-17 12:56:55,476 Cleaning registries for queue: home-erpnext-benches-ifran_cabs:default
+2025-07-17 12:56:55,477 Cleaning registries for queue: home-erpnext-benches-ifran_cabs:long
+2025-07-17 12:56:55,478 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.google_calendar.google_calendar.s..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='ifran.cabs', user='Administrator') (ifran.cabs::scheduled_job::frappe.integrations.doctype.google_calendar.google_calendar.sync)
+2025-07-17 12:56:55,704 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::scheduled_job::frappe.integrations.doctype.google_calendar.google_calendar.sync)
+2025-07-17 12:56:55,704 Result is kept for 600 seconds
+2025-07-17 12:56:55,714 home-erpnext-benches-ifran_cabs:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.retry_sending_emails'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='ifran.cabs', user='Administrator') (ifran.cabs::scheduled_job::frappe.email.queue.retry_sending_emails)
+2025-07-17 12:56:55,764 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::scheduled_job::frappe.monitor.flush)
+2025-07-17 12:56:55,764 Result is kept for 600 seconds
+2025-07-17 12:56:55,855 home-erpnext-benches-ifran_cabs:default: Job OK (ifran.cabs::scheduled_job::frappe.email.queue.retry_sending_emails)
+2025-07-17 12:56:55,855 Result is kept for 600 seconds

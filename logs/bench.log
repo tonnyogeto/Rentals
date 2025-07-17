@@ -1,0 +1,95 @@
+2025-07-17 09:41:04,462 DEBUG cd ifran_cabs && python3 -m venv env
+2025-07-17 09:41:07,787 DEBUG cd ifran_cabs && /home/erpnext/benches/ifran_cabs/env/bin/python -m pip install --quiet --upgrade pip
+2025-07-17 09:41:10,821 DEBUG cd ifran_cabs && /home/erpnext/benches/ifran_cabs/env/bin/python -m pip install --quiet wheel
+2025-07-17 09:41:14,802 LOG Getting frappe
+2025-07-17 09:41:14,802 DEBUG cd ifran_cabs/apps && git clone https://github.com/frappe/frappe.git --branch version-15 --depth 1 --origin upstream
+2025-07-17 09:41:35,551 LOG Installing frappe
+2025-07-17 09:41:35,555 DEBUG cd /home/erpnext/benches/ifran_cabs && /home/erpnext/benches/ifran_cabs/env/bin/python -m pip install --quiet --upgrade -e /home/erpnext/benches/ifran_cabs/apps/frappe 
+2025-07-17 09:42:42,378 DEBUG cd /home/erpnext/benches/ifran_cabs/apps/frappe && yarn install --check-files
+2025-07-17 09:42:53,367 DEBUG cd ifran_cabs && bench build
+2025-07-17 09:42:53,537 INFO /usr/local/bin/bench build
+2025-07-17 09:43:21,144 LOG setting up backups
+2025-07-17 09:43:21,168 LOG backups were set up
+2025-07-17 09:43:21,169 INFO Bench ifran_cabs initialized
+2025-07-17 09:44:18,229 INFO /usr/local/bin/bench start
+2025-07-17 09:44:18,605 INFO /usr/local/bin/bench worker
+2025-07-17 09:44:18,608 INFO /usr/local/bin/bench serve --port 8001
+2025-07-17 09:44:18,609 INFO /usr/local/bin/bench watch
+2025-07-17 09:44:18,670 INFO /usr/local/bin/bench schedule
+2025-07-17 09:46:17,829 INFO /usr/local/bin/bench new-site ifran.cabs
+2025-07-17 09:53:06,610 INFO /usr/local/bin/bench new-site ifran.cabs
+2025-07-17 09:53:50,517 INFO /usr/local/bin/bench drop-site ifran.cabs --force
+2025-07-17 09:54:45,282 INFO /usr/local/bin/bench drop-site ifran.cabs --force --mariadb-root-username root --mariadb-root-password Davido254!
+2025-07-17 09:54:58,507 INFO /usr/local/bin/bench new-site ifran.cabs
+2025-07-17 09:57:46,968 INFO /usr/local/bin/bench start
+2025-07-17 09:57:57,881 INFO /usr/local/bin/bench start
+2025-07-17 09:59:05,596 INFO /usr/local/bin/bench start
+2025-07-17 10:00:18,998 INFO /usr/local/bin/bench start
+2025-07-17 10:00:19,391 INFO /usr/local/bin/bench watch
+2025-07-17 10:00:19,397 INFO /usr/local/bin/bench schedule
+2025-07-17 10:00:19,419 INFO /usr/local/bin/bench serve --port 8001
+2025-07-17 10:00:19,419 INFO /usr/local/bin/bench worker
+2025-07-17 10:02:07,581 INFO /usr/local/bin/bench use ifran.cabs
+2025-07-17 10:02:27,775 INFO /usr/local/bin/bench start
+2025-07-17 10:02:28,063 INFO /usr/local/bin/bench watch
+2025-07-17 10:02:28,065 INFO /usr/local/bin/bench schedule
+2025-07-17 10:02:28,065 INFO /usr/local/bin/bench serve --port 8001
+2025-07-17 10:02:28,133 INFO /usr/local/bin/bench worker
+2025-07-17 10:03:19,864 INFO /usr/local/bin/bench --site ifran.cabs list-apps
+2025-07-17 10:04:04,426 INFO /usr/local/bin/bench restart
+2025-07-17 10:04:12,690 INFO /usr/local/bin/bench start
+2025-07-17 10:04:12,995 INFO /usr/local/bin/bench serve --port 8001
+2025-07-17 10:04:12,997 INFO /usr/local/bin/bench watch
+2025-07-17 10:04:13,004 INFO /usr/local/bin/bench worker
+2025-07-17 10:04:13,052 INFO /usr/local/bin/bench schedule
+2025-07-17 10:07:02,459 INFO /usr/local/bin/bench start
+2025-07-17 10:07:02,751 INFO /usr/local/bin/bench schedule
+2025-07-17 10:07:02,754 INFO /usr/local/bin/bench watch
+2025-07-17 10:07:02,804 INFO /usr/local/bin/bench worker
+2025-07-17 10:07:02,810 INFO /usr/local/bin/bench serve --port 8001
+2025-07-17 10:08:16,751 INFO /usr/local/bin/bench get-app --branch version-15 erpnext https://github.com/frappe/erpnext
+2025-07-17 10:08:16,760 LOG Getting erpnext
+2025-07-17 10:08:16,761 DEBUG cd ./apps && git clone https://github.com/frappe/erpnext --branch version-15 --depth 1 --origin upstream
+2025-07-17 10:08:58,021 LOG Installing erpnext
+2025-07-17 10:08:58,022 DEBUG cd /home/erpnext/benches/ifran_cabs && /home/erpnext/benches/ifran_cabs/env/bin/python -m pip install --quiet --upgrade -e /home/erpnext/benches/ifran_cabs/apps/erpnext 
+2025-07-17 10:09:48,226 DEBUG cd /home/erpnext/benches/ifran_cabs/apps/erpnext && yarn install --check-files
+2025-07-17 10:09:50,582 DEBUG bench build --app erpnext
+2025-07-17 10:09:50,727 INFO /usr/local/bin/bench build --app erpnext
+2025-07-17 10:10:10,459 INFO /usr/local/bin/bench start
+2025-07-17 10:10:10,797 INFO /usr/local/bin/bench serve --port 8001
+2025-07-17 10:10:10,797 INFO /usr/local/bin/bench watch
+2025-07-17 10:10:10,835 INFO /usr/local/bin/bench worker
+2025-07-17 10:10:10,839 INFO /usr/local/bin/bench schedule
+2025-07-17 10:11:52,524 INFO /usr/local/bin/bench start
+2025-07-17 10:11:52,810 INFO /usr/local/bin/bench watch
+2025-07-17 10:11:52,812 INFO /usr/local/bin/bench serve --port 8001
+2025-07-17 10:11:52,860 INFO /usr/local/bin/bench worker
+2025-07-17 10:11:52,872 INFO /usr/local/bin/bench schedule
+2025-07-17 10:20:14,901 INFO /usr/local/bin/bench start
+2025-07-17 10:20:15,495 INFO /usr/local/bin/bench schedule
+2025-07-17 10:20:15,553 INFO /usr/local/bin/bench worker
+2025-07-17 10:20:15,554 INFO /usr/local/bin/bench serve --port 8001
+2025-07-17 10:20:15,577 INFO /usr/local/bin/bench watch
+2025-07-17 10:26:11,583 INFO /usr/local/bin/bench start
+2025-07-17 10:26:12,335 INFO /usr/local/bin/bench serve --port 8001
+2025-07-17 10:26:12,340 INFO /usr/local/bin/bench worker
+2025-07-17 10:26:12,341 INFO /usr/local/bin/bench schedule
+2025-07-17 10:26:12,360 INFO /usr/local/bin/bench watch
+2025-07-17 11:09:16,597 INFO /usr/local/bin/bench start
+2025-07-17 11:09:17,177 INFO /usr/local/bin/bench watch
+2025-07-17 11:09:17,185 INFO /usr/local/bin/bench serve --port 8001
+2025-07-17 11:09:17,190 INFO /usr/local/bin/bench schedule
+2025-07-17 11:09:17,202 INFO /usr/local/bin/bench worker
+2025-07-17 12:00:02,058 INFO /usr/local/bin/bench --verbose --site all backup
+2025-07-17 12:37:17,200 INFO /usr/local/bin/bench new-app rentals
+2025-07-17 12:37:17,206 LOG creating new app rentals
+2025-07-17 12:38:28,736 LOG Installing rentals
+2025-07-17 12:38:28,738 DEBUG cd /home/erpnext/benches/ifran_cabs && /home/erpnext/benches/ifran_cabs/env/bin/python -m pip install --quiet --upgrade -e /home/erpnext/benches/ifran_cabs/apps/rentals 
+2025-07-17 12:38:31,754 DEBUG bench build --app rentals
+2025-07-17 12:38:31,926 INFO /usr/local/bin/bench build --app rentals
+2025-07-17 12:45:46,853 INFO /usr/local/bin/bench --site ifran.cabs install-app rentals
+2025-07-17 12:46:52,742 INFO /usr/local/bin/bench start
+2025-07-17 12:46:53,105 INFO /usr/local/bin/bench serve --port 8001
+2025-07-17 12:46:53,106 INFO /usr/local/bin/bench worker
+2025-07-17 12:46:53,140 INFO /usr/local/bin/bench schedule
+2025-07-17 12:46:53,144 INFO /usr/local/bin/bench watch

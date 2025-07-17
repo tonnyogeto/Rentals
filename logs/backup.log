@@ -1,0 +1,6 @@
+set -o pipefail; /usr/bin/mariadb-dump --user=_4bcaad614e30226a --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _4bcaad614e30226a | /usr/bin/gzip >> ./ifran.cabs/private/backups/20250717_120002-ifran_cabs-database.sql.gz
+
+Backup Summary for ifran.cabs at 2025-07-17 12:00:03.672988
+Config  : ./ifran.cabs/private/backups/20250717_120002-ifran_cabs-site_config_backup.json 94.0B
+Database: ./ifran.cabs/private/backups/20250717_120002-ifran_cabs-database.sql.gz         227.4KiB
+Backup for Site ifran.cabs has been successfully completed

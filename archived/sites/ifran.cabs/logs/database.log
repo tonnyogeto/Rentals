@@ -1,0 +1,6 @@
+2025-07-17 09:54:45,573 WARNING database DDL Query made to DB:
+DROP DATABASE IF EXISTS `_4bcaad614e30226a`
+2025-07-17 09:54:45,576 WARNING database DDL Query made to DB:
+DROP USER IF EXISTS '_4bcaad614e30226a'@'%'
+2025-07-17 09:54:45,577 WARNING database DDL Query made to DB:
+DROP USER IF EXISTS '_4bcaad614e30226a'@'localhost'
