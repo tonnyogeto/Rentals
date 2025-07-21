@@ -93,3 +93,33 @@
 2025-07-17 12:46:53,106 INFO /usr/local/bin/bench worker
 2025-07-17 12:46:53,140 INFO /usr/local/bin/bench schedule
 2025-07-17 12:46:53,144 INFO /usr/local/bin/bench watch
+2025-07-17 14:43:09,690 INFO /usr/local/bin/bench --site ifran.cabs set-config developer-mode 1
+2025-07-20 21:14:24,108 INFO /usr/local/bin/bench start
+2025-07-20 21:14:24,783 INFO /usr/local/bin/bench watch
+2025-07-20 21:14:24,783 INFO /usr/local/bin/bench serve --port 8001
+2025-07-20 21:14:24,790 INFO /usr/local/bin/bench schedule
+2025-07-20 21:14:24,823 INFO /usr/local/bin/bench worker
+2025-07-20 21:34:18,544 INFO /usr/local/bin/bench start
+2025-07-20 21:34:18,956 INFO /usr/local/bin/bench watch
+2025-07-20 21:34:18,960 INFO /usr/local/bin/bench worker
+2025-07-20 21:34:18,973 INFO /usr/local/bin/bench schedule
+2025-07-20 21:34:18,982 INFO /usr/local/bin/bench serve --port 8001
+2025-07-21 09:39:49,134 INFO /usr/local/bin/bench start
+2025-07-21 09:39:49,807 INFO /usr/local/bin/bench schedule
+2025-07-21 09:39:49,815 INFO /usr/local/bin/bench watch
+2025-07-21 09:39:49,816 INFO /usr/local/bin/bench worker
+2025-07-21 09:39:49,851 INFO /usr/local/bin/bench serve --port 8001
+2025-07-21 12:00:01,282 INFO /usr/local/bin/bench --verbose --site all backup
+2025-07-21 15:02:57,954 INFO /usr/local/bin/bench start
+2025-07-21 15:02:58,588 INFO /usr/local/bin/bench worker
+2025-07-21 15:02:58,601 INFO /usr/local/bin/bench schedule
+2025-07-21 15:02:58,601 INFO /usr/local/bin/bench serve --port 8001
+2025-07-21 15:02:58,611 INFO /usr/local/bin/bench watch
+2025-07-21 16:48:33,406 INFO /usr/local/bin/bench --site ifran.cabs migrate
+2025-07-21 16:52:17,883 INFO /usr/local/bin/bench --site ifran.cabs migrate
+2025-07-21 18:00:02,116 INFO /usr/local/bin/bench --verbose --site all backup
+2025-07-21 21:12:41,699 INFO /usr/local/bin/bench start
+2025-07-21 21:12:42,329 INFO /usr/local/bin/bench worker
+2025-07-21 21:12:42,338 INFO /usr/local/bin/bench watch
+2025-07-21 21:12:42,339 INFO /usr/local/bin/bench schedule
+2025-07-21 21:12:42,355 INFO /usr/local/bin/bench serve --port 8001

@@ -2493,3 +2493,61 @@ index modified(modified))
 			COLLATE=utf8mb4_unicode_ci
 2025-07-17 11:19:21,968 WARNING database DDL Query made to DB:
 ALTER TABLE `tabDriver` ADD COLUMN `first_name` varchar(140), ADD COLUMN `license_number` varchar(140), ADD COLUMN `last_name` varchar(140), ADD COLUMN `phone_number` varchar(140), ADD COLUMN `profile_image` text
+2025-07-17 15:04:15,701 WARNING database DDL Query made to DB:
+create table `tabVehicle` (
+			name varchar(140) primary key,
+			creation datetime(6),
+			modified datetime(6),
+			modified_by varchar(140),
+			owner varchar(140),
+			docstatus int(1) not null default '0',
+			idx int(8) not null default '0',
+			`_user_tags` text,
+`_comments` text,
+`_assign` text,
+`_liked_by` text,
+index modified(modified))
+			ENGINE=InnoDB
+			ROW_FORMAT=DYNAMIC
+			CHARACTER SET=utf8mb4
+			COLLATE=utf8mb4_unicode_ci
+2025-07-17 15:12:52,581 WARNING database DDL Query made to DB:
+create sequence if not exists vehicle_id_seq nocache nocycle
+2025-07-17 15:12:52,616 WARNING database DDL Query made to DB:
+ALTER TABLE `tabVehicle` MODIFY `name` bigint
+2025-07-17 15:12:52,658 WARNING database DDL Query made to DB:
+ALTER TABLE `tabVehicle` ADD COLUMN `make` varchar(140), ADD COLUMN `year` int(11) not null default 0, ADD COLUMN `color` varchar(140), ADD COLUMN `model` varchar(140), ADD COLUMN `licence_plate` varchar(140)
+2025-07-21 09:53:14,128 WARNING database DDL Query made to DB:
+ALTER TABLE `tabDriver` ADD COLUMN `full_name` varchar(140)
+2025-07-21 15:25:10,098 WARNING database DDL Query made to DB:
+create table `tabRide Order` (
+			name varchar(140) primary key,
+			creation datetime(6),
+			modified datetime(6),
+			modified_by varchar(140),
+			owner varchar(140),
+			docstatus int(1) not null default '0',
+			idx int(8) not null default '0',
+			`_user_tags` text,
+`_comments` text,
+`_assign` text,
+`_liked_by` text,
+index modified(modified))
+			ENGINE=InnoDB
+			ROW_FORMAT=DYNAMIC
+			CHARACTER SET=utf8mb4
+			COLLATE=utf8mb4_unicode_ci
+2025-07-21 15:33:17,071 WARNING database DDL Query made to DB:
+ALTER TABLE `tabRide Order` ADD COLUMN `customer_name` varchar(140), ADD COLUMN `contact_number` varchar(140), ADD COLUMN `pickup_time` datetime(6), ADD COLUMN `pickup_address` text default 'New', ADD COLUMN `status` varchar(140) default 'New'
+2025-07-21 15:40:15,374 WARNING database DDL Query made to DB:
+ALTER TABLE `tabRide Order` MODIFY `pickup_address` text
+2025-07-21 15:53:32,437 WARNING database DDL Query made to DB:
+ALTER TABLE `tabRide Order` ADD COLUMN `vehicle` varchar(140)
+2025-07-21 15:53:32,455 WARNING database DDL Query made to DB:
+ALTER TABLE `tabRide Order` MODIFY `pickup_address` text
+2025-07-21 15:54:12,346 WARNING database DDL Query made to DB:
+ALTER TABLE `tabVehicle` ADD COLUMN `title` varchar(140)
+2025-07-21 16:48:34,772 WARNING database DDL Query made to DB:
+alter table `tabDocType` add column if not exists migration_hash varchar(140)
+2025-07-21 16:52:19,310 WARNING database DDL Query made to DB:
+alter table `tabDocType` add column if not exists migration_hash varchar(140)
