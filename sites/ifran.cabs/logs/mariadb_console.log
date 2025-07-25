@@ -1,0 +1,9 @@
+_HiStOrY_V2_
+SELECT\040*\040FROM\040'tabRide\040Booking'
+exit
+SELECT\040*\040FROM
+'tabRide\040Booking'
+SELECT\040*
+FROM\040'tabRide\040Booking';
+SELECT\040*\040FROM\040'tabRide\040Booking';
+clear

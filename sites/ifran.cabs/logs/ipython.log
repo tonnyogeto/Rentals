@@ -1,0 +1,12 @@
+2025-07-23 12:47:54,154 INFO ipython === bench console session ===
+2025-07-23 12:47:54,158 INFO ipython ride = frappe.get_doc("Ride Booking","emoinf9gb7")
+2025-07-23 12:47:54,158 INFO ipython ride.vehicle
+2025-07-23 12:47:54,158 INFO ipython ride.items
+2025-07-23 12:47:54,159 INFO ipython for item in ride.items:
+    print(item.source, item.destination,item.distance)
+    
+2025-07-23 12:47:54,159 INFO ipython frappe.db.commit()
+2025-07-23 12:47:54,159 INFO ipython EXIT
+2025-07-23 12:47:54,160 INFO ipython === session end ===
+2025-07-25 10:59:22,854 INFO ipython === bench console session ===
+2025-07-25 10:59:22,855 INFO ipython === session end ===
