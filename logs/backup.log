@@ -40,3 +40,39 @@ Backup Summary for ifran.cabs at 2025-07-25 12:00:04.184204
 Config  : ./ifran.cabs/private/backups/20250725_120002-ifran_cabs-site_config_backup.json 183.0B
 Database: ./ifran.cabs/private/backups/20250725_120002-ifran_cabs-database.sql.gz         285.1KiB
 Backup for Site ifran.cabs has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_4bcaad614e30226a --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _4bcaad614e30226a | /usr/bin/gzip >> ./ifran.cabs/private/backups/20250727_120003-ifran_cabs-database.sql.gz
+
+Backup Summary for ifran.cabs at 2025-07-27 12:00:05.739714
+Config  : ./ifran.cabs/private/backups/20250727_120003-ifran_cabs-site_config_backup.json 183.0B
+Database: ./ifran.cabs/private/backups/20250727_120003-ifran_cabs-database.sql.gz         286.9KiB
+Backup for Site ifran.cabs has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_4bcaad614e30226a --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _4bcaad614e30226a | /usr/bin/gzip >> ./ifran.cabs/private/backups/20250727_180003-ifran_cabs-database.sql.gz
+
+Backup Summary for ifran.cabs at 2025-07-27 18:00:03.950973
+Config  : ./ifran.cabs/private/backups/20250727_180003-ifran_cabs-site_config_backup.json 183.0B
+Database: ./ifran.cabs/private/backups/20250727_180003-ifran_cabs-database.sql.gz         286.9KiB
+Backup for Site ifran.cabs has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_4bcaad614e30226a --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _4bcaad614e30226a | /usr/bin/gzip >> ./ifran.cabs/private/backups/20250728_000003-ifran_cabs-database.sql.gz
+
+Backup Summary for ifran.cabs at 2025-07-28 00:00:04.698690
+Config  : ./ifran.cabs/private/backups/20250728_000003-ifran_cabs-site_config_backup.json 183.0B
+Database: ./ifran.cabs/private/backups/20250728_000003-ifran_cabs-database.sql.gz         286.9KiB
+Backup for Site ifran.cabs has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_4bcaad614e30226a --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _4bcaad614e30226a | /usr/bin/gzip >> ./ifran.cabs/private/backups/20250729_120004-ifran_cabs-database.sql.gz
+
+Backup Summary for ifran.cabs at 2025-07-29 12:00:05.998032
+Config  : ./ifran.cabs/private/backups/20250729_120004-ifran_cabs-site_config_backup.json 183.0B
+Database: ./ifran.cabs/private/backups/20250729_120004-ifran_cabs-database.sql.gz         286.9KiB
+Backup for Site ifran.cabs has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_4bcaad614e30226a --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _4bcaad614e30226a | /usr/bin/gzip >> ./ifran.cabs/private/backups/20250730_120002-ifran_cabs-database.sql.gz
+
+Backup Summary for ifran.cabs at 2025-07-30 12:00:04.106098
+Config  : ./ifran.cabs/private/backups/20250730_120002-ifran_cabs-site_config_backup.json 183.0B
+Database: ./ifran.cabs/private/backups/20250730_120002-ifran_cabs-database.sql.gz         286.9KiB
+Backup for Site ifran.cabs has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_4bcaad614e30226a --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _4bcaad614e30226a | /usr/bin/gzip >> ./ifran.cabs/private/backups/20250731_120002-ifran_cabs-database.sql.gz
+
+Backup Summary for ifran.cabs at 2025-07-31 12:00:03.372522
+Config  : ./ifran.cabs/private/backups/20250731_120002-ifran_cabs-site_config_backup.json 183.0B
+Database: ./ifran.cabs/private/backups/20250731_120002-ifran_cabs-database.sql.gz         274.7KiB
+Backup for Site ifran.cabs has been successfully completed

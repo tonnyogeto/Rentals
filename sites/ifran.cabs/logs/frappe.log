@@ -1,3 +1,6 @@
 2025-07-20 21:53:34,200 ERROR frappe New Exception collected in error log
 Site: ifran.cabs
 Form Dict: {'fields': '[*]'}
+2025-07-31 09:56:07,986 ERROR frappe New Exception collected in error log
+Site: ifran.cabs
+Form Dict: {'name': 'Vehicles by Service Status', 'cmd': 'frappe.email.doctype.auto_email_report.auto_email_report.send_now'}

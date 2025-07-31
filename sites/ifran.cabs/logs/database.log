@@ -2616,3 +2616,11 @@ ALTER TABLE `tabRide Order` ADD COLUMN `location` longtext
 ALTER TABLE `tabVehicle` ADD COLUMN `is_published` int(1) not null default 0, ADD COLUMN `route` varchar(140)
 2025-07-25 11:22:44,928 WARNING database DDL Query made to DB:
 ALTER TABLE `tabVehicle` ADD COLUMN `image` text
+2025-07-31 09:15:45,335 WARNING database DDL Query made to DB:
+ALTER TABLE `tabVehicle` ADD COLUMN `insurance_expiry` date
+2025-07-31 09:32:17,276 WARNING database DDL Query made to DB:
+ALTER TABLE `tabVehicle` ADD COLUMN `status` varchar(140), ADD COLUMN `condition` decimal(3,2)
+2025-07-31 09:34:22,986 WARNING database DDL Query made to DB:
+ALTER TABLE `tabVehicle` MODIFY `condition` decimal(3,2)
+2025-07-31 14:37:01,061 WARNING database DDL Query made to DB:
+ALTER TABLE `tabVehicle` MODIFY `condition` decimal(3,2)

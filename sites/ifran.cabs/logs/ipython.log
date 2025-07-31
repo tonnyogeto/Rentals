@@ -10,3 +10,18 @@
 2025-07-23 12:47:54,160 INFO ipython === session end ===
 2025-07-25 10:59:22,854 INFO ipython === bench console session ===
 2025-07-25 10:59:22,855 INFO ipython === session end ===
+2025-07-31 15:10:22,185 INFO ipython === bench console session ===
+2025-07-31 15:10:22,188 INFO ipython frappe.db.get_single_value("Rental Settings", "standard_rate")
+2025-07-31 15:10:22,189 INFO ipython frappe.db.get_single_value("Rental Settings", "standard_rate")
+2025-07-31 15:10:22,189 INFO ipython frappe.db.get_single_value("Rental Settings", "standard_rate")
+2025-07-31 15:10:22,189 INFO ipython clear
+2025-07-31 15:10:22,190 INFO ipython frappe.db.get_single_value("Rental Settings", "standard_rate")
+2025-07-31 15:10:22,190 INFO ipython frappe.db.get_single_value("Rental Settings", "standard_rate")
+2025-07-31 15:10:22,190 INFO ipython clear
+2025-07-31 15:10:22,190 INFO ipython frappe.db.get_single_value("Rental Settings", "standard_rate")
+2025-07-31 15:10:22,191 INFO ipython clear
+2025-07-31 15:10:22,191 INFO ipython === session end ===
+2025-07-31 15:14:19,366 INFO ipython === bench console session ===
+2025-07-31 15:14:19,368 INFO ipython frappe.db.get_single_value("Rental Settings", "standard_rate")
+2025-07-31 15:14:19,368 INFO ipython clear
+2025-07-31 15:14:19,369 INFO ipython === session end ===
