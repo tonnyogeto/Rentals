@@ -1,0 +1,14 @@
+.DS_Store
+*.pyc
+*.egg-info
+*.swp
+tags
+node_modules
+__pycache__
+
+logs/
+config/pids/
+*.pid
+*.rdb
+*.log
+sites/assets/*.json
